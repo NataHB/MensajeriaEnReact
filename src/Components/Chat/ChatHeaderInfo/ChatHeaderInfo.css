@@ -1,0 +1,42 @@
+.chat-header-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 52%;
+    padding: 15px;   
+}
+
+.chat-header{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    align-items: center;
+}
+
+.chat-header img:nth-child(2){
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.perfil-nombre{
+    font-size: 23px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.estado-texto{
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.iconos{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.iconos img:nth-child(2){
+    width: 34px;
+    height: 34px;
+}

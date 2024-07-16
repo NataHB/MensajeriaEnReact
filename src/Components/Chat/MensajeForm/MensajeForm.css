@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    width: 700px;
+}
+.input-mensaje{
+    border-radius: 25px;
+    padding: 8px;
+    border: 2px solid rgba(0, 0, 0, 0.596);
+    box-shadow: 0 0 3px 1px #00000067;
+    width: 100%;
+}
+
+.boton-mensaje{
+    border-radius: 25px;
+    padding: 8px;
+    border: 2px solid rgba(0, 0, 0, 0.596); 
+    box-shadow: 0 0 3px 1px #00000067;
+}
