@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Chancla",
-        "thumbnail": "src/components/assets/img/gato.jpeg",
+        "thumbnail": "/gato.jpeg",
         "ultima_conexion": "ayer",
         "id": 1,
         "mensajes": [
@@ -17,7 +17,7 @@
     },
     {
         "nombre": "Papu",
-        "thumbnail": "src/components/assets/img/gatin.jpg",
+        "thumbnail": "/gatin.jpg",
         "ultima_conexion": "ayer",
         "id": 2,
         "mensajes": [
@@ -33,7 +33,7 @@
     },
     {
         "nombre": "Bigotes",
-        "thumbnail": "src/components/assets/img/gatomeme.jpg",
+        "thumbnail": "/gatomeme.jpg",
         "ultima_conexion": "ayer",
         "id": 3,
         "mensajes": [
